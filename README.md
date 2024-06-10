@@ -16,6 +16,26 @@
 
 ![WhatsApp Image 2024-06-10 at 12 53 28 PM](https://github.com/3absy1/Perfume-Filament-master/assets/102052336/2d2c8ed1-69c5-4763-a8b5-94f48387a931)
 
+## Dashboard :
+![Screenshot 2024-06-10 231421](https://github.com/3absy1/Perfume-Filament-master/assets/102052336/21e9a4a6-b979-4c3c-a42a-f38945ed521d)
+![Screenshot 2024-06-10 231353](https://github.com/3absy1/Perfume-Filament-master/assets/102052336/3853f918-68c9-4a94-a547-4fb60f5190b4)
+![Screenshot 2024-06-10 230824](https://github.com/3absy1/Perfume-Filament-master/assets/102052336/7ed88e9d-fa78-497d-a220-b6f4b2cb1dd7)
+
+![Screenshot 2024-06-10 231331](https://github.com/3absy1/Perfume-Filament-master/assets/102052336/2393990f-e412-4a5c-8ec8-1ccc4dd170d9)
+
+![Screenshot 2024-06-10 231305](https://github.com/3absy1/Perfume-Filament-master/assets/102052336/caf8cf91-7cd8-443f-bfa8-ff2dc30f025b)
+![Screenshot 2024-06-10 231134](https://github.com/3absy1/Perfume-Filament-master/assets/102052336/2db6db3c-0a84-4fd4-bd29-288bccf7a2a9)
+
+![Screenshot 2024-06-10 231644](https://github.com/3absy1/Perfume-Filament-master/assets/102052336/71a4f79![Screenshot 2024-06-10 231523](https://github.com/3absy1/Perfume-Filament-master/assets/102052336/3d703422-0fcf-4cd7-a764-059bcf5d52b1)
+e-8f0e-4b5c-80ec-e1b37c988e60)
+
+![Screenshot 2024-06-10 231623](https://github.com/3absy1/Perfume-Filament-master/assets/102052336/21d1185a-31cd-4a3d-9212-51dc769a818c)
+![Screenshot 2024-06-10 231552](https://github.com/3absy1/Perfume-Filament-master/assets/102052336/d17fd9c5-25f5-43d8-aa5a-5e05327042fd)
+
+![Screenshot 2024-06-10 231454](https://github.com/3absy1/Perfume-Filament-master/assets/102052336/cca71089-3927-4fce-bd07-44f96cd733da)
+
+
+
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
