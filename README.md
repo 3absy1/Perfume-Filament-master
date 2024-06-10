@@ -1,13 +1,20 @@
-Api for Mobile Application perfumeApp : 
+## Api for Mobile Application perfumeApp : 
 
-![WhatsApp Image 2024-06-10 at 12 53 28 PM (2)](https://github.com/3absy1/Perfume-Filament-master/assets/102052336/791ad791-1325-4b38-bf21-6c7d43ea7cbf)
-![WhatsApp Image 2024-06-10 at 12 53 28 PM (3)](https://github.com/3absy1/Perfume-Filament-master/assets/102052336/9778e336-99b6-41d9-805f-1e2882e70567)
-![WhatsApp Image 2024-06-10 at 12 53 28 PM (4)](https://github.com/3absy1/Perfume-Filament-master/assets/102052336/2f39555a-8000-41b9-b6da-20b6add6d6cd)
-![WhatsApp Image 2024-06-10 at 12 53 29 PM](https://github.com/3absy1/Perfume-Filament-master/assets/102052336/18410668-ad11-4e48-a164-8fe7bf3040e3)
-![WhatsApp Image 2024-06-10 at 12 53 29 PM (1)](https://github.com/3absy1/Perfume-Filament-master/assets/102052336/6355f9ea-6eb2-4a4d-b284-29328c9c2bd3)
-![WhatsApp Image 2024-06-10 at 12 53 29 PM (2)](https://github.com/3absy1/Perfume-Filament-master/assets/102052336/bd1eb628-03d2-446b-9d0a-ead7cb2186e3)
-![WhatsApp Image 2024-06-10 at 12 53 28 PM (1)](https://github.com/3absy1/Perfume-Filament-master/assets/102052336/85ef2ffc-c53c-4960-9e5a-9b1c414092c8)
-![WhatsApp Image 2024-06-10 at 12 53 28 PM](https://github.com/3absy1/Perfume-Filament-master/assets/102052336/0fa276f7-2ff3-4c82-877d-9de188cbbae9)
+![WhatsApp Image 2024-06-10 at 12 53 29 PM](https://github.com/3absy1/Perfume-Filament-master/assets/102052336/3cb2c2e9-db04-4b50-94ae-3faf13ab398e)
+
+![WhatsApp Image 2024-06-10 at 12 53 29 PM (1)](https://github.com/3absy1/Perfume-Filament-master/assets/102052336/9d64726a-48ae-4ac7-88f5-69ea8b6b55bd)
+
+![WhatsApp Image 2024-06-10 at 12 53 29 PM (2)](https://github.com/3absy1/Perfume-Filament-master/assets/102052336/81e3c848-33e6-4a4a-921e-2339465314af)
+
+![WhatsApp Image 2024-06-10 at 12 53 28 PM (1)](https://github.com/3absy1/Perfume-Filament-master/assets/102052336/6774e211-7854-4efa-9451-c1b928a9d222)
+
+![WhatsApp Image 2024-06-10 at 12 53 28 PM (2)](https://github.com/3absy1/Perfume-Filament-master/assets/102052336/0197ef0e-c6fc-47e7-8491-03dc8fe06821)
+
+![WhatsApp Image 2024-06-10 at 12 53 28 PM (3)](https://github.com/3absy1/Perfume-Filament-master/assets/102052336/7f325551-82b4-4cb0-a88c-06a66d600672)
+
+![WhatsApp Image 2024-06-10 at 12 53 28 PM (4)](https://github.com/3absy1/Perfume-Filament-master/assets/102052336/762f8c51-8320-419f-bcc6-651f3876d097)
+
+![WhatsApp Image 2024-06-10 at 12 53 28 PM](https://github.com/3absy1/Perfume-Filament-master/assets/102052336/2d2c8ed1-69c5-4763-a8b5-94f48387a931)
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
